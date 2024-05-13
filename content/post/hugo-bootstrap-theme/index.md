@@ -1,5 +1,5 @@
 ---
-title: "Hugo Bootstrap Theme alpha"
+title: "AquaAccoustics alpha"
 description: "Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5."
 date: 2022-05-22T13:35:02+01:00
 draft: false
@@ -12,20 +12,20 @@ aliases:
   - hugo-bootstrap-theme-alpha
 ---
 
-> Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5.
+> Analyze whale songs effectively using this site!
 
 Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
 
-- 🛡️ Security aware
+- 🛡️ Real-time Song Analysis
 
-  Get A+ scores on Mozilla Observatory out of the box. Easily change the default Security Headers to suit your needs.
+  Instantly decode the secrets of the deep with real-time analysis of whale songs, uncovering species details, emotional states, and hidden messages.
 
-- ⚡ Fast by default
+- ⚡ Species Identification
 
-  Get 100 scores on Google Lighthouse by default. Hugo Bootstrap Theme removes unused css, prefetches links, and lazy loads images.
+  Dive into the diversity of the ocean with precise whale species identification from their unique songs, complete with visual and auditory guides.
 
-- 📈 SEO-ready
+- 📈 Mood Interpretation
 
-  Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the Search Engine Optimization settings to your liking.
+  Explore the emotional spectrum of whales through song, with intuitive mood interpretations visualized by color codes and emoticons.
 
 Check the [GitHub repository](https://github.com/filipecarneiro/hugo-bootstrap-theme) for the release notes.

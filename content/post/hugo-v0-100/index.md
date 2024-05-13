@@ -3,7 +3,7 @@ title: "Hugo v0.100.2"
 description: ""
 date: 2022-06-08
 draft: false
-images: ["hugo-logo.png"]
+images: ["hugo-logo1.png"]
 categories: ["Hugo Release Notes"]
 tags: ["Hugo"]
 keywords: ["hugo v0.100"]
