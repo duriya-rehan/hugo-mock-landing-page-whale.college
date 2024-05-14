@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/runner/work/hugo-mock-landing-page-autodeployed1/hugo-mock-landing-page-autodeployed1",
+	"sourceRoot": "/home/runner/work/hugo-mock-landing-page-whale.college/hugo-mock-landing-page-whale.college",
 	"sources": [
 		"assets/sass/main.scss",
 		"themes/hugo-bootstrap-theme/assets/sass/bootstrap/_functions.scss",
