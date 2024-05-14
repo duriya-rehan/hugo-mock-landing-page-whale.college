@@ -1,3 +1,3 @@
-# hugo-mock-landing-page-autodeployed
+# hugo-mock-landing-page-autodeployed-whale.college
 
-When I initially imported this I did something wrong and had to delete the repository and remake it. When I was cloning it it said a repo with the name already existed even when I kept deleting it from my computer. That's why this is named autodeployed1. Sorry about that - I'm not sure how to fix it.
+I purchased the domain name (screenshot attached) - however i was having issues verifying with my email - when I clicked the link they sent it never loaded properly and the website stopped responding. That's why I couldn't verify it.
