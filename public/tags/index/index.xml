@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on AquaAccoustics</title>
-    <link>http://localhost:1313/hugo-mock-landing-page-autodeployed1/tags/index/</link>
+    <link>http://localhost:1313/hugo-mock-landing-page-whale.college/tags/index/</link>
     <description>Recent content in Index on AquaAccoustics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Duriya Rehan</copyright>
-    <atom:link href="http://localhost:1313/hugo-mock-landing-page-autodeployed1/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-mock-landing-page-whale.college/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
-      <link>http://localhost:1313/hugo-mock-landing-page-autodeployed1/page/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page-whale.college/page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-mock-landing-page-autodeployed1/page/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page-whale.college/page/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts</title>
-      <link>http://localhost:1313/hugo-mock-landing-page-autodeployed1/post/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page-whale.college/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-mock-landing-page-autodeployed1/post/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page-whale.college/post/</guid>
       <description></description>
     </item>
   </channel>
