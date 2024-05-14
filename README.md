@@ -1,12 +1,3 @@
-# hugo-mock-landing-page
-# CIS 3500 Homework #1
+# hugo-mock-landing-page-autodeployed
 
-Overview of PART IV Tasks + Extra Practice
-
-- Established a public repository named hugo-mock-landing-page, cloned it to my local machine, and set up a .gitignore file.
-- Followed the instructions in Chapter 1 to initiate a basic Hugo site, integrated the hugo-bootstrap-theme, and adjusted the  repository settings to match the theme.
-- Practiced organizing, staging, and committing changes in a structured and straightforward manner to enhance the clarity of the repository.
-- Compiled USER_STORIES.md detailing the user stories for the technology featured on my landing page.
-- Cleared out unnecessary content from the pre-existing framework.
-- Personalized the landing page with six features (including three illustrations), a logo, and a defined color scheme.
-Configured and launched my site.
+When I initially imported this I did something wrong and had to delete the repository and remake it. When I was cloning it it said a repo with the name already existed even when I kept deleting it from my computer. That's why this is named autodeployed1. Sorry about that - I'm not sure how to fix it.
