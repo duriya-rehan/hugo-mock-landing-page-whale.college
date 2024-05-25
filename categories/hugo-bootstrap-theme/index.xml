@@ -1,8 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo Bootstrap Theme on AquaAccoustics</title><link>https://whale.college/categories/hugo-bootstrap-theme/</link><description>Recent content in Hugo Bootstrap Theme on AquaAccoustics</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Duriya Rehan</copyright><lastBuildDate>Sat, 25 May 2024 19:40:31 +0000</lastBuildDate><atom:link href="https://whale.college/categories/hugo-bootstrap-theme/index.xml" rel="self" type="application/rss+xml"/><item><title>AquaAccoustics alpha</title><link>https://whale.college/post/hugo-bootstrap-theme/</link><pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate><guid>https://whale.college/post/hugo-bootstrap-theme/</guid><description>Analyze whale songs effectively using this site!
-Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
-🛡️ Real-time Song Analysis
-Instantly decode the secrets of the deep with real-time analysis of whale songs, uncovering species details, emotional states, and hidden messages.
-⚡ Species Identification
-Dive into the diversity of the ocean with precise whale species identification from their unique songs, complete with visual and auditory guides.
-📈 Mood Interpretation
-Explore the emotional spectrum of whales through song, with intuitive mood interpretations visualized by color codes and emoticons.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Bootstrap Theme on AquaAccoustics</title>
+    <link>https://whale.college/categories/hugo-bootstrap-theme/</link>
+    <description>Recent content in Hugo Bootstrap Theme on AquaAccoustics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Duriya Rehan</copyright>
+    <lastBuildDate>Tue, 14 May 2024 12:45:24 -0400</lastBuildDate>
+    <atom:link href="https://whale.college/categories/hugo-bootstrap-theme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AquaAccoustics alpha</title>
+      <link>https://whale.college/post/hugo-bootstrap-theme/</link>
+      <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
+      <guid>https://whale.college/post/hugo-bootstrap-theme/</guid>
+      <description>Analyze whale songs effectively using this site!&#xA;Open-source MIT Licensed Hugo Theme, using Bootstrap 5.&#xA;🛡️ Real-time Song Analysis&#xA;Instantly decode the secrets of the deep with real-time analysis of whale songs, uncovering species details, emotional states, and hidden messages.&#xA;⚡ Species Identification&#xA;Dive into the diversity of the ocean with precise whale species identification from their unique songs, complete with visual and auditory guides.&#xA;📈 Mood Interpretation&#xA;Explore the emotional spectrum of whales through song, with intuitive mood interpretations visualized by color codes and emoticons.</description>
+    </item>
+  </channel>
+</rss>

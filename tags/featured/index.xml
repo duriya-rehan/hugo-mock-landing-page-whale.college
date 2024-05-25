@@ -1,10 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Featured on AquaAccoustics</title><link>https://whale.college/tags/featured/</link><description>Recent content in Featured on AquaAccoustics</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Duriya Rehan</copyright><lastBuildDate>Sat, 25 May 2024 19:40:31 +0000</lastBuildDate><atom:link href="https://whale.college/tags/featured/index.xml" rel="self" type="application/rss+xml"/><item><title>AquaAccoustics alpha</title><link>https://whale.college/post/hugo-bootstrap-theme/</link><pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate><guid>https://whale.college/post/hugo-bootstrap-theme/</guid><description>Analyze whale songs effectively using this site!
-Open-source MIT Licensed Hugo Theme, using Bootstrap 5.
-🛡️ Real-time Song Analysis
-Instantly decode the secrets of the deep with real-time analysis of whale songs, uncovering species details, emotional states, and hidden messages.
-⚡ Species Identification
-Dive into the diversity of the ocean with precise whale species identification from their unique songs, complete with visual and auditory guides.
-📈 Mood Interpretation
-Explore the emotional spectrum of whales through song, with intuitive mood interpretations visualized by color codes and emoticons.</description></item><item><title>Markdown Cheat Sheet Ⓜ️⬇️</title><link>https://whale.college/page/markdown-cheat-sheet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://whale.college/page/markdown-cheat-sheet/</guid><description>Markdown Cheat Sheet Hugo has excellent Markdown support out of the box. By default, Hugo uses the Goldmark Markdown processor which is fully CommonMark-compliant. See the configuration instructions to learn more about the extensions you can configure.
-Overview You can refer to the table below for an overview of basic markdown syntax:
-TASK MARKDOWN SYNTAX Heading 1 # Heading 2 ## Heading 3 ### Italics *italics* Bold **Bold** Strike ~~strike~~ Blockquote &amp;gt; Links [link name](https://link.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured on AquaAccoustics</title>
+    <link>https://whale.college/tags/featured/</link>
+    <description>Recent content in Featured on AquaAccoustics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Duriya Rehan</copyright>
+    <lastBuildDate>Tue, 14 May 2024 12:45:24 -0400</lastBuildDate>
+    <atom:link href="https://whale.college/tags/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AquaAccoustics alpha</title>
+      <link>https://whale.college/post/hugo-bootstrap-theme/</link>
+      <pubDate>Sun, 22 May 2022 13:35:02 +0100</pubDate>
+      <guid>https://whale.college/post/hugo-bootstrap-theme/</guid>
+      <description>Analyze whale songs effectively using this site!&#xA;Open-source MIT Licensed Hugo Theme, using Bootstrap 5.&#xA;🛡️ Real-time Song Analysis&#xA;Instantly decode the secrets of the deep with real-time analysis of whale songs, uncovering species details, emotional states, and hidden messages.&#xA;⚡ Species Identification&#xA;Dive into the diversity of the ocean with precise whale species identification from their unique songs, complete with visual and auditory guides.&#xA;📈 Mood Interpretation&#xA;Explore the emotional spectrum of whales through song, with intuitive mood interpretations visualized by color codes and emoticons.</description>
+    </item>
+    <item>
+      <title>Markdown Cheat Sheet Ⓜ️⬇️</title>
+      <link>https://whale.college/page/markdown-cheat-sheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://whale.college/page/markdown-cheat-sheet/</guid>
+      <description>Markdown Cheat Sheet Hugo has excellent Markdown support out of the box. By default, Hugo uses the Goldmark Markdown processor which is fully CommonMark-compliant. See the configuration instructions to learn more about the extensions you can configure.&#xA;Overview You can refer to the table below for an overview of basic markdown syntax:&#xA;TASK MARKDOWN SYNTAX Heading 1 # Heading 2 ## Heading 3 ### Italics *italics* Bold **Bold** Strike ~~strike~~ Blockquote &amp;gt; Links [link name](https://link.</description>
+    </item>
+  </channel>
+</rss>
